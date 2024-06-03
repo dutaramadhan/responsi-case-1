@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama :Diestra Pradana Duta Ramadhan
+NIU : 478179
+Sesi : 1  
+Secret String : a966135ef450bd1de69e21948b58ec3add707ed1d3702a1497cb978469839ae220240603014027
 
 ## Checklist Responsi
 
